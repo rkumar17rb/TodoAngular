@@ -1,5 +1,6 @@
-## TodoApp
+## TodoApp 
 ### A simple and intuitive Todo application built with Angular for managing tasks. Users can add, delete, and toggle tasks to mark them as completed.
+LIVE: https://rkumar17rb.github.io/TodoAngular/
 ![image](https://github.com/user-attachments/assets/3a6bb0f0-eccb-4bfd-8aa6-58cc5775d004)
 
 # Features
